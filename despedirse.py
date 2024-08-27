@@ -1,4 +1,3 @@
-import pywhatkit as kit
 import time
 import pyautogui
 import keyboard
@@ -36,3 +35,6 @@ while True:
     pyautogui.moveTo(x=837, y=451)
     time.sleep(1)
     pyautogui.click()
+
+
+
